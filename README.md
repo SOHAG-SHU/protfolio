@@ -1,20 +1,46 @@
+# MD. SOHAG HOSSEN — Developer Portfolio
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+  <img src="./protfolio.png" alt="Portfolio Preview" width="100%">
 </div>
 
-# Run and deploy your AI Studio app
+## About
 
-This contains everything you need to run your app locally.
+This is my personal developer portfolio website, designed to showcase my skills, services, projects, and professional background.
 
-View your app in AI Studio: https://ai.studio/apps/eda6a1dc-a077-4a79-bbc9-57475098e6f2
+## Features
 
-## Run Locally
+- Modern and Responsive Design
+- Dark and Light Mode
+- Interactive Navigation
+- About Me Section
+- Skills and Services Showcase
+- Project Portfolio
+- Contact Section
+- Mobile-Friendly Layout
 
-**Prerequisites:**  Node.js
+## Technologies Used
 
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
+- Google Fonts
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Installation & Setup
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Run Steps
+
+npm install
+npm run dev
+
+## Author
+
+**Md. Sohag Hossen**
+Computer Science & Engineering Student  
+Netrokona University
